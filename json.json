@@ -1,0 +1,122 @@
+[
+    {
+      "attributes": [
+        "handwritten"
+      ],
+      "bounding_box": {
+        "h": 154,
+        "w": 1863,
+        "x": 181,
+        "y": 305
+      },
+      "inference": {
+        "confidence": 0.995,
+        "model": {
+          "id": "e0eea4fd-1d72-43e3-9bcb-55d0db61a091",
+          "name": "Text Scanner",
+          "type": "text_scanner"
+        }
+      },
+      "label": "text",
+      "name": "text",
+      "text": {
+        "text": "Wired & wireless solution"
+      }
+    },
+    {
+      "attributes": [
+        "handwritten"
+      ],
+      "bounding_box": {
+        "h": 122,
+        "w": 1670,
+        "x": 179,
+        "y": 562
+      },
+      "inference": {
+        "confidence": 0.995,
+        "model": {
+          "id": "e0eea4fd-1d72-43e3-9bcb-55d0db61a091",
+          "name": "Text Scanner",
+          "type": "text_scanner"
+        }
+      },
+      "label": "text",
+      "name": "text",
+      "text": {
+        "text": "Wired & Wireless solution"
+      }
+    },
+    {
+      "attributes": [
+        "handwritten"
+      ],
+      "bounding_box": {
+        "h": 118,
+        "w": 1333,
+        "x": 161,
+        "y": 830
+      },
+      "inference": {
+        "confidence": 0.997,
+        "model": {
+          "id": "e0eea4fd-1d72-43e3-9bcb-55d0db61a091",
+          "name": "Text Scanner",
+          "type": "text_scanner"
+        }
+      },
+      "label": "text",
+      "name": "text",
+      "text": {
+        "text": "Wired & wireless solution"
+      }
+    },
+    {
+      "attributes": [
+        "handwritten"
+      ],
+      "bounding_box": {
+        "h": 125,
+        "w": 1523,
+        "x": 149,
+        "y": 1060
+      },
+      "inference": {
+        "confidence": 0.977,
+        "model": {
+          "id": "e0eea4fd-1d72-43e3-9bcb-55d0db61a091",
+          "name": "Text Scanner",
+          "type": "text_scanner"
+        }
+      },
+      "label": "text",
+      "name": "text",
+      "text": {
+        "text": "WIRED & WIRELESS SOLUTION"
+      }
+    },
+    {
+      "attributes": [
+        "handwritten"
+      ],
+      "bounding_box": {
+        "h": 144,
+        "w": 1388,
+        "x": 145,
+        "y": 1322
+      },
+      "inference": {
+        "confidence": 0.993,
+        "model": {
+          "id": "e0eea4fd-1d72-43e3-9bcb-55d0db61a091",
+          "name": "Text Scanner",
+          "type": "text_scanner"
+        }
+      },
+      "label": "text",
+      "name": "text",
+      "text": {
+        "text": "Wired & wireless solution"
+      }
+    }
+  ]
